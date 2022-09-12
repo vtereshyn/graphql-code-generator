@@ -1,5 +1,13 @@
 # @graphql-codegen/cli
 
+## 2.12.1
+
+### Patch Changes
+
+- [#8335](https://github.com/dotansimha/graphql-code-generator/pull/8335) [`3e121d92e`](https://github.com/dotansimha/graphql-code-generator/commit/3e121d92ebd563a82dbc367cd3e9194ebe5ca1ee) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency [`@whatwg-node/fetch@^0.4.0` ↗︎](https://www.npmjs.com/package/@whatwg-node/fetch/v/null) (from `^0.3.0`, in `dependencies`)
+
 ## 2.12.0
 
 ### Minor Changes
